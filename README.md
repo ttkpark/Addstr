@@ -5,8 +5,8 @@ It's my one of C Source. I've decided to open it because I want to help sufferin
 
 This features...
 > 1. It never uses malloc().
-> It has Memory Buffers (divided into segments equally, number of ADDSTR_BANKNUM)
-> which each segment is sized ADDSTR_BUFSIZE.
+> It has Memory Buffers (divided into segments equally, it becames the bank number.)
+> user-definable max size of each segment(bank).
 > #So It can serve Adding String features with fixed memory(normally 1024 Byte) 
 > 2. It serves Adding String featues.
 > 3. easily convertible with char*.
