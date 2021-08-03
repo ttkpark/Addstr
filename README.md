@@ -12,6 +12,6 @@ This features...
 > 3. easily convertible with char*.
 > 4. adding in certain length, enev replacing feature are avaliable.
 
-# I want to make it more and more with you!
-# If you are to use it, You can use it freely!
-# If you want to dicuss about it, Please dicuss with me!
+I want to make it more and more with you!
+If you are to use it, You can use it freely!
+If you want to dicuss about it, Please dicuss with me!
